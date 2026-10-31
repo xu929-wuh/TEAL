@@ -168,4 +168,4 @@ After pushing the repository:
 1. confirm the citation title, version, and release date;
 2. create a tagged release such as `v1.0.0`;
 3. archive the release on Zenodo or an equivalent service and record the DOI;
-4. add the archive DOI to `README.md`, `CITATION.cff`, the manuscript's Data and Code Availability statement, and the response to Reviewers A13 and Minor 6; the GitHub URL is already recorded here.
+4. add the archive DOI to `README.md`, `CITATION.cff`, the manuscript abstract, and the response to Reviewers A13 and Minor 6; the GitHub URL is already recorded here.
