@@ -1,0 +1,150 @@
+{
+  "review_type": "two independent annotators for the QEA reference-answer evidence-support audit",
+  "limitation": "The two annotators independently reviewed the same 120 items. The public package contains one row-level label set for the system-generated-answer audit, so no agreement statistic is available for that audit.",
+  "sample_size": 120,
+  "agreement": {
+    "label_exact": 0.9833333333333333,
+    "label_cohen_kappa": 0.8672566371681412,
+    "strict_exact": 0.9833333333333333,
+    "strict_cohen_kappa": 0.8662207357859528,
+    "core_exact": 1.0,
+    "core_cohen_kappa": 1.0
+  },
+  "disagreements": [
+    {
+      "audit_id": "QEA-030",
+      "first": "SUPPORTED",
+      "second": "PARTIAL",
+      "final": "PARTIAL",
+      "second_note": "The evidence supports Nelly's hint and Lockwood's answer, but Nelly's alleged question about his lively look is absent from the supplied evidence."
+    },
+    {
+      "audit_id": "QEA-078",
+      "first": "SUPPORTED",
+      "second": "PARTIAL",
+      "final": "PARTIAL",
+      "second_note": "Building at Bogucharovo is supported, but the claim that Andrei spent most of his time there is not stated in the supplied evidence."
+    }
+  ],
+  "final_labels": {
+    "PARTIAL": 8,
+    "SUPPORTED": 111,
+    "UNSUPPORTED": 1
+  },
+  "final_strict_all_claims": {
+    "successes": 111,
+    "total": 120,
+    "rate": 0.925,
+    "wilson_95": [
+      0.8635894316089088,
+      0.9600433379935513
+    ]
+  },
+  "final_core_answer_support": {
+    "successes": 119,
+    "total": 120,
+    "rate": 0.9916666666666667,
+    "wilson_95": [
+      0.9543025846256777,
+      0.9985274821693252
+    ]
+  },
+  "by_language": {
+    "en": {
+      "labels": {
+        "PARTIAL": 1,
+        "SUPPORTED": 28,
+        "UNSUPPORTED": 1
+      },
+      "strict_all_claims": {
+        "successes": 28,
+        "total": 30,
+        "rate": 0.9333333333333333,
+        "wilson_95": [
+          0.7867618227892791,
+          0.9815233646723066
+        ]
+      },
+      "core_answer_support": {
+        "successes": 29,
+        "total": 30,
+        "rate": 0.9666666666666667,
+        "wilson_95": [
+          0.8332924860304112,
+          0.9940915620051425
+        ]
+      }
+    },
+    "fr": {
+      "labels": {
+        "SUPPORTED": 30
+      },
+      "strict_all_claims": {
+        "successes": 30,
+        "total": 30,
+        "rate": 1.0,
+        "wilson_95": [
+          0.8864829086095221,
+          1.0
+        ]
+      },
+      "core_answer_support": {
+        "successes": 30,
+        "total": 30,
+        "rate": 1.0,
+        "wilson_95": [
+          0.8864829086095221,
+          1.0
+        ]
+      }
+    },
+    "ru": {
+      "labels": {
+        "PARTIAL": 4,
+        "SUPPORTED": 26
+      },
+      "strict_all_claims": {
+        "successes": 26,
+        "total": 30,
+        "rate": 0.8666666666666667,
+        "wilson_95": [
+          0.7031831605558306,
+          0.9469043057578189
+        ]
+      },
+      "core_answer_support": {
+        "successes": 30,
+        "total": 30,
+        "rate": 1.0,
+        "wilson_95": [
+          0.8864829086095221,
+          1.0
+        ]
+      }
+    },
+    "zh": {
+      "labels": {
+        "PARTIAL": 3,
+        "SUPPORTED": 27
+      },
+      "strict_all_claims": {
+        "successes": 27,
+        "total": 30,
+        "rate": 0.9,
+        "wilson_95": [
+          0.7437855868473339,
+          0.9654007400402839
+        ]
+      },
+      "core_answer_support": {
+        "successes": 30,
+        "total": 30,
+        "rate": 1.0,
+        "wilson_95": [
+          0.8864829086095221,
+          1.0
+        ]
+      }
+    }
+  }
+}

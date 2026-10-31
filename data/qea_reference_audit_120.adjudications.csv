@@ -1,0 +1,8 @@
+audit_id,label,core_supported,all_claims_supported,note
+QEA-018,UNSUPPORTED,false,false,"The taunt is narrated by Nelly (""I observed aloud"") and addressed to Isabella; the answer wrongly assigns the taunt to Mrs. Heathcliff."
+QEA-069,PARTIAL,true,false,"The 100/120-ruble provision order is supported, but the extra ""about 300 rubles including champagne"" is absent from the supplied evidence."
+QEA-083,PARTIAL,true,false,"The proposal and refusal are supported, but ""he left immediately after dinner"" is absent from the supplied evidence."
+QEA-085,PARTIAL,true,false,"The quarrel and reconciliation are supported, but Ilagin's offer of hunting places is absent from the supplied evidence."
+QEA-098,PARTIAL,true,false,"The fruit list and Zhou Rui's reply are supported, but Jia Zhen's instruction to check the account is absent from the supplied evidence."
+QEA-102,PARTIAL,true,false,"The bribery and witness changes are supported, but the coroner's finding of a bump injury is absent from the supplied evidence."
+QEA-114,PARTIAL,true,false,"The monster's fear and the plan to bind Tang in the rear garden are supported, but the named ""separated-plum-blossom stratagem"" and diversion of the three disciples are absent from the supplied evidence."

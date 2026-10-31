@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this audit subset, please cite the associated TEAL paper."
+title: "TEAL Evidence-Support Audit Subset"
+version: 1.0.0
+date-released: 2026-10-31
+type: dataset
+keywords:
+  - trustworthy question answering
+  - literary question answering
+  - evidence support
+  - human audit
+  - retrieval-augmented generation
+abstract: "Two 120-item human evidence-support audit samples for reference answers and generated answers in multilingual literary question answering."

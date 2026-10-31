@@ -1,0 +1,35 @@
+{
+  "by_language": {
+    "en": 30,
+    "fr": 30,
+    "ru": 30,
+    "zh": 30
+  },
+  "by_language_group_state": {
+    "en|insufficient|full": 8,
+    "en|insufficient|partial": 6,
+    "en|negative|full": 1,
+    "en|sufficient|full": 10,
+    "en|sufficient|partial": 5,
+    "fr|insufficient|full": 8,
+    "fr|insufficient|partial": 6,
+    "fr|negative|partial": 1,
+    "fr|sufficient|full": 10,
+    "fr|sufficient|partial": 5,
+    "ru|insufficient|full": 8,
+    "ru|insufficient|partial": 6,
+    "ru|negative|partial": 1,
+    "ru|sufficient|full": 10,
+    "ru|sufficient|partial": 5,
+    "zh|insufficient|full": 6,
+    "zh|insufficient|partial": 7,
+    "zh|negative|full": 1,
+    "zh|negative|partial": 1,
+    "zh|sufficient|full": 10,
+    "zh|sufficient|partial": 5
+  },
+  "context_covers_all_gold": 60,
+  "missing_citation_rows": 0,
+  "rows": 120,
+  "seed": 20261025
+}

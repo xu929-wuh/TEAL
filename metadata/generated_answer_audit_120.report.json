@@ -1,0 +1,566 @@
+{
+  "annotator_protocol": "Two independent annotators labeled the 120 system-generated answers.",
+  "audit_type": "evidence-support audit for system-generated answers; two independent annotators",
+  "by_group": {
+    "insufficient": {
+      "citations": {
+        "emitted_mentions": 183,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 51,
+        "rows_with_citations": 51,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 183
+      },
+      "core_answer_support": {
+        "rate": 0.8545454545454545,
+        "successes": 47,
+        "total": 55,
+        "wilson_95": [
+          0.7383908706854773,
+          0.9244071085224069
+        ]
+      },
+      "labels": {
+        "PARTIAL": 34,
+        "SUPPORTED": 13,
+        "UNSUPPORTED": 8
+      },
+      "n": 55,
+      "strict_all_claims": {
+        "rate": 0.23636363636363636,
+        "successes": 13,
+        "total": 55,
+        "wilson_95": [
+          0.14366655869733186,
+          0.3634836618916773
+        ]
+      }
+    },
+    "negative": {
+      "citations": {
+        "emitted_mentions": 15,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 5,
+        "rows_with_citations": 5,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 15
+      },
+      "core_answer_support": {
+        "rate": 0.6,
+        "successes": 3,
+        "total": 5,
+        "wilson_95": [
+          0.2307242812760128,
+          0.882379225767352
+        ]
+      },
+      "labels": {
+        "PARTIAL": 2,
+        "SUPPORTED": 1,
+        "UNSUPPORTED": 2
+      },
+      "n": 5,
+      "strict_all_claims": {
+        "rate": 0.2,
+        "successes": 1,
+        "total": 5,
+        "wilson_95": [
+          0.03622410863243014,
+          0.6244653702374747
+        ]
+      }
+    },
+    "sufficient": {
+      "citations": {
+        "emitted_mentions": 167,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 60,
+        "rows_with_citations": 60,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 167
+      },
+      "core_answer_support": {
+        "rate": 0.8333333333333334,
+        "successes": 50,
+        "total": 60,
+        "wilson_95": [
+          0.7196838683638547,
+          0.9068682302080855
+        ]
+      },
+      "labels": {
+        "PARTIAL": 24,
+        "SUPPORTED": 26,
+        "UNSUPPORTED": 10
+      },
+      "n": 60,
+      "strict_all_claims": {
+        "rate": 0.43333333333333335,
+        "successes": 26,
+        "total": 60,
+        "wilson_95": [
+          0.3157239680468677,
+          0.5589656122387444
+        ]
+      }
+    }
+  },
+  "by_group_state": {
+    "insufficient|full": {
+      "citations": {
+        "emitted_mentions": 82,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 26,
+        "rows_with_citations": 26,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 82
+      },
+      "core_answer_support": {
+        "rate": 0.8666666666666667,
+        "successes": 26,
+        "total": 30,
+        "wilson_95": [
+          0.703186733179637,
+          0.9469034451594526
+        ]
+      },
+      "labels": {
+        "PARTIAL": 19,
+        "SUPPORTED": 7,
+        "UNSUPPORTED": 4
+      },
+      "n": 30,
+      "strict_all_claims": {
+        "rate": 0.23333333333333334,
+        "successes": 7,
+        "total": 30,
+        "wilson_95": [
+          0.11792388144489496,
+          0.40928326158122164
+        ]
+      }
+    },
+    "insufficient|partial": {
+      "citations": {
+        "emitted_mentions": 101,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 25,
+        "rows_with_citations": 25,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 101
+      },
+      "core_answer_support": {
+        "rate": 0.84,
+        "successes": 21,
+        "total": 25,
+        "wilson_95": [
+          0.6534637839282114,
+          0.9359654854332355
+        ]
+      },
+      "labels": {
+        "PARTIAL": 15,
+        "SUPPORTED": 6,
+        "UNSUPPORTED": 4
+      },
+      "n": 25,
+      "strict_all_claims": {
+        "rate": 0.24,
+        "successes": 6,
+        "total": 25,
+        "wilson_95": [
+          0.11496313693401444,
+          0.4342968335542908
+        ]
+      }
+    },
+    "negative|full": {
+      "citations": {
+        "emitted_mentions": 5,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 2,
+        "rows_with_citations": 2,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 5
+      },
+      "core_answer_support": {
+        "rate": 0.5,
+        "successes": 1,
+        "total": 2,
+        "wilson_95": [
+          0.09453120573423074,
+          0.9054687942657693
+        ]
+      },
+      "labels": {
+        "PARTIAL": 0,
+        "SUPPORTED": 1,
+        "UNSUPPORTED": 1
+      },
+      "n": 2,
+      "strict_all_claims": {
+        "rate": 0.5,
+        "successes": 1,
+        "total": 2,
+        "wilson_95": [
+          0.09453120573423074,
+          0.9054687942657693
+        ]
+      }
+    },
+    "negative|partial": {
+      "citations": {
+        "emitted_mentions": 10,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 3,
+        "rows_with_citations": 3,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 10
+      },
+      "core_answer_support": {
+        "rate": 0.6666666666666666,
+        "successes": 2,
+        "total": 3,
+        "wilson_95": [
+          0.2076596008020477,
+          0.9385080552796037
+        ]
+      },
+      "labels": {
+        "PARTIAL": 2,
+        "SUPPORTED": 0,
+        "UNSUPPORTED": 1
+      },
+      "n": 3,
+      "strict_all_claims": {
+        "rate": 0.0,
+        "successes": 0,
+        "total": 3,
+        "wilson_95": [
+          5.551115123125783e-17,
+          0.5614970317550454
+        ]
+      }
+    },
+    "sufficient|full": {
+      "citations": {
+        "emitted_mentions": 113,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 40,
+        "rows_with_citations": 40,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 113
+      },
+      "core_answer_support": {
+        "rate": 0.975,
+        "successes": 39,
+        "total": 40,
+        "wilson_95": [
+          0.8711863103652591,
+          0.9955731684973186
+        ]
+      },
+      "labels": {
+        "PARTIAL": 16,
+        "SUPPORTED": 23,
+        "UNSUPPORTED": 1
+      },
+      "n": 40,
+      "strict_all_claims": {
+        "rate": 0.575,
+        "successes": 23,
+        "total": 40,
+        "wilson_95": [
+          0.42195068541991065,
+          0.7149060744004962
+        ]
+      }
+    },
+    "sufficient|partial": {
+      "citations": {
+        "emitted_mentions": 54,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 20,
+        "rows_with_citations": 20,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 54
+      },
+      "core_answer_support": {
+        "rate": 0.55,
+        "successes": 11,
+        "total": 20,
+        "wilson_95": [
+          0.34208534245034233,
+          0.7418021417443759
+        ]
+      },
+      "labels": {
+        "PARTIAL": 8,
+        "SUPPORTED": 3,
+        "UNSUPPORTED": 9
+      },
+      "n": 20,
+      "strict_all_claims": {
+        "rate": 0.15,
+        "successes": 3,
+        "total": 20,
+        "wilson_95": [
+          0.052368745896216595,
+          0.36041886474075696
+        ]
+      }
+    }
+  },
+  "by_language": {
+    "en": {
+      "citations": {
+        "emitted_mentions": 71,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 30,
+        "rows_with_citations": 30,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 71
+      },
+      "core_answer_support": {
+        "rate": 0.6333333333333333,
+        "successes": 19,
+        "total": 30,
+        "wilson_95": [
+          0.4551356365479487,
+          0.7812607919389929
+        ]
+      },
+      "labels": {
+        "PARTIAL": 8,
+        "SUPPORTED": 11,
+        "UNSUPPORTED": 11
+      },
+      "n": 30,
+      "strict_all_claims": {
+        "rate": 0.36666666666666664,
+        "successes": 11,
+        "total": 30,
+        "wilson_95": [
+          0.21873920806100708,
+          0.5448643634520511
+        ]
+      }
+    },
+    "fr": {
+      "citations": {
+        "emitted_mentions": 101,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 30,
+        "rows_with_citations": 30,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 101
+      },
+      "core_answer_support": {
+        "rate": 0.9,
+        "successes": 27,
+        "total": 30,
+        "wilson_95": [
+          0.7437891742081593,
+          0.9654001112526658
+        ]
+      },
+      "labels": {
+        "PARTIAL": 14,
+        "SUPPORTED": 13,
+        "UNSUPPORTED": 3
+      },
+      "n": 30,
+      "strict_all_claims": {
+        "rate": 0.43333333333333335,
+        "successes": 13,
+        "total": 30,
+        "wilson_95": [
+          0.2737748557646652,
+          0.6080269299918639
+        ]
+      }
+    },
+    "ru": {
+      "citations": {
+        "emitted_mentions": 89,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 28,
+        "rows_with_citations": 28,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 89
+      },
+      "core_answer_support": {
+        "rate": 0.9333333333333333,
+        "successes": 28,
+        "total": 30,
+        "wilson_95": [
+          0.7867654163738308,
+          0.9815229762087295
+        ]
+      },
+      "labels": {
+        "PARTIAL": 18,
+        "SUPPORTED": 10,
+        "UNSUPPORTED": 2
+      },
+      "n": 30,
+      "strict_all_claims": {
+        "rate": 0.3333333333333333,
+        "successes": 10,
+        "total": 30,
+        "wilson_95": [
+          0.19230498083676134,
+          0.5121994835545616
+        ]
+      }
+    },
+    "zh": {
+      "citations": {
+        "emitted_mentions": 104,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 28,
+        "rows_with_citations": 28,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 104
+      },
+      "core_answer_support": {
+        "rate": 0.8666666666666667,
+        "successes": 26,
+        "total": 30,
+        "wilson_95": [
+          0.703186733179637,
+          0.9469034451594526
+        ]
+      },
+      "labels": {
+        "PARTIAL": 20,
+        "SUPPORTED": 6,
+        "UNSUPPORTED": 4
+      },
+      "n": 30,
+      "strict_all_claims": {
+        "rate": 0.2,
+        "successes": 6,
+        "total": 30,
+        "wilson_95": [
+          0.0950510717728987,
+          0.3730569641314825
+        ]
+      }
+    }
+  },
+  "by_state": {
+    "full": {
+      "citations": {
+        "emitted_mentions": 200,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 68,
+        "rows_with_citations": 68,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 200
+      },
+      "core_answer_support": {
+        "rate": 0.9166666666666666,
+        "successes": 66,
+        "total": 72,
+        "wilson_95": [
+          0.8298764477932348,
+          0.9612475750430503
+        ]
+      },
+      "labels": {
+        "PARTIAL": 35,
+        "SUPPORTED": 31,
+        "UNSUPPORTED": 6
+      },
+      "n": 72,
+      "strict_all_claims": {
+        "rate": 0.4305555555555556,
+        "successes": 31,
+        "total": 72,
+        "wilson_95": [
+          0.32257905786705865,
+          0.5455669383268938
+        ]
+      }
+    },
+    "partial": {
+      "citations": {
+        "emitted_mentions": 165,
+        "micro_precision": 1.0,
+        "rows_all_emitted_citations_valid": 48,
+        "rows_with_citations": 48,
+        "rows_with_invalid_citations": 0,
+        "valid_mentions": 165
+      },
+      "core_answer_support": {
+        "rate": 0.7083333333333334,
+        "successes": 34,
+        "total": 48,
+        "wilson_95": [
+          0.5682074019042831,
+          0.8175842107348348
+        ]
+      },
+      "labels": {
+        "PARTIAL": 25,
+        "SUPPORTED": 9,
+        "UNSUPPORTED": 14
+      },
+      "n": 48,
+      "strict_all_claims": {
+        "rate": 0.1875,
+        "successes": 9,
+        "total": 48,
+        "wilson_95": [
+          0.10191390954847647,
+          0.31939867149284695
+        ]
+      }
+    }
+  },
+  "human_evaluation": true,
+  "independent_human_iaa": null,
+  "labels": {
+    "PARTIAL": "core answer supported; at least one secondary detail is unsupported, contradicted, overstated, or a requested subpart is omitted",
+    "SUPPORTED": "every substantive generated claim is entailed by the retrieved evidence",
+    "UNSUPPORTED": "core answer unsupported, contradicted, dependent on absent evidence, or no evidence retrieved"
+  },
+  "limitation": "The public package contains one row-level label set; the second annotator's row-level labels are not included, so generated-side agreement and Cohen kappa are not reported.",
+  "overall": {
+    "citations": {
+      "emitted_mentions": 365,
+      "micro_precision": 1.0,
+      "rows_all_emitted_citations_valid": 116,
+      "rows_with_citations": 116,
+      "rows_with_invalid_citations": 0,
+      "valid_mentions": 365
+    },
+    "core_answer_support": {
+      "rate": 0.8333333333333334,
+      "successes": 100,
+      "total": 120,
+      "wilson_95": [
+        0.7565471860673773,
+        0.8894400363201539
+      ]
+    },
+    "labels": {
+      "PARTIAL": 60,
+      "SUPPORTED": 40,
+      "UNSUPPORTED": 20
+    },
+    "n": 120,
+    "strict_all_claims": {
+      "rate": 0.3333333333333333,
+      "successes": 40,
+      "total": 120,
+      "wilson_95": [
+        0.25531740501258443,
+        0.4216889837936501
+      ]
+    }
+  },
+  "paired_annotation_files_available": false,
+  "sample_design": "120 stratified items; 30 per language; sufficient/insufficient/negative and full/partial deployment states deliberately oversampled; not a natural-prevalence estimate"
+}

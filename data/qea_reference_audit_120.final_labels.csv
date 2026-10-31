@@ -1,0 +1,121 @@
+audit_id,language,work,sample_id,label,core_supported,all_claims_supported,note
+QEA-001,en,3pride_prejudice,pos::pride_prejudice::w10b_bennet_mock_incomprehension,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-002,en,3pride_prejudice,pos::pride_prejudice::w10b_jane_confession_letter,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-003,en,3pride_prejudice,pos::pride_prejudice::w10b_wickham_concedes_pride,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-004,en,3pride_prejudice,pos::pride_prejudice::w10c_mrs_bennet_broken_heart,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-005,en,3pride_prejudice,pos::pride_prejudice::w3a_darcy_pride_temper,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-006,en,3pride_prejudice,pos::pride_prejudice::w3a_miss_bingley_praise,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-007,en,3pride_prejudice,pos::pride_prejudice::w3b_mary_singing_stopped,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-008,en,3pride_prejudice,pos::pride_prejudice::w4b_darcy_arrival_with_bingley,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-009,en,3pride_prejudice,pos::pride_prejudice::w5b_hunsford_london_distance,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-010,en,3pride_prejudice,pos::pride_prejudice::w5b_netherfield_meryton_distance,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-011,en,3pride_prejudice,pos::pride_prejudice::w5d_copse_letter_bench,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-012,en,3pride_prejudice,pos::pride_prejudice::w5d_own_room_dressing_room,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-013,en,3pride_prejudice,pos::pride_prejudice::w6d_stay_weeks_scarborough,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-014,en,3pride_prejudice,pos::pride_prejudice::w7a_sweet_girl_commendation,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-015,en,3pride_prejudice,pos::pride_prejudice::w7c_second_perusal_family_charge,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-016,en,4Wuthering Heights,pos::wuthering_heights::w10a_give_me_hareton,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-017,en,4Wuthering Heights,pos::wuthering_heights::w10b_no_raised_hand,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-018,en,4Wuthering Heights,pos::wuthering_heights::w10b_taunt_after_death,UNSUPPORTED,False,False,"The taunt is narrated by Nelly (""I observed aloud"") and addressed to Isabella; the answer wrongly assigns the taunt to Mrs. Heathcliff."
+QEA-019,en,4Wuthering Heights,pos::wuthering_heights::w10d_books_denial_and_reproof,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-020,en,4Wuthering Heights,pos::wuthering_heights::w10d_nelly_retort_fagots,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-021,en,4Wuthering Heights,pos::wuthering_heights::w3a_summer_1778,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-022,en,4Wuthering Heights,pos::wuthering_heights::w4b_heathcliff_refuses_doctor,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-023,en,4Wuthering Heights,pos::wuthering_heights::w5b_parlour_window_valley,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-024,en,4Wuthering Heights,pos::wuthering_heights::w6a_money_sums,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-025,en,4Wuthering Heights,pos::wuthering_heights::w6b_half_year_gunpowder,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-026,en,4Wuthering Heights,pos::wuthering_heights::w6b_morrow_of_wedding,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-027,en,4Wuthering Heights,pos::wuthering_heights::w9b_nelly_master_side,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-028,en,4Wuthering Heights,pos::wuthering_heights::w9b_nelly_set_down,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-029,en,4Wuthering Heights,pos::wuthering_heights::w9c_joseph_old_family_partiality,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-030,en,4Wuthering Heights,pos::wuthering_heights::w9c_lockwood_and_catherine_picture,PARTIAL,True,False,"The evidence supports Nelly's hint and Lockwood's answer, but Nelly's alleged question about his lively look is absent from the supplied evidence."
+QEA-031,fr,5bc_world,pos::les_miserables::w11a_valjean_steals_silver,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-032,fr,5bc_world,pos::les_miserables::w11b_medaillon_colonel,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-033,fr,5bc_world,pos::les_miserables::w11c_sou_scie_delivrance,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-034,fr,5bc_world,pos::les_miserables::w12a_digne_valjean_itineraire_nocturne,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-035,fr,5bc_world,pos::les_miserables::w12c_promenades_matinales,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-036,fr,5bc_world,pos::les_miserables::w13b_babet_tarif_dents,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-037,fr,5bc_world,pos::les_miserables::w13b_mabeuf_faillite,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-038,fr,5bc_world,pos::les_miserables::w13d_jais_verroterie_prix,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-039,fr,5bc_world,pos::les_miserables::w13d_thenardier_preuves_datees,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-040,fr,5bc_world,pos::les_miserables::w15a_valjean_grasse_lendemain,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-041,fr,5bc_world,pos::les_miserables::w15b_ordre_citeaux_dates,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-042,fr,5bc_world,pos::les_miserables::w16b_tante_gillenormand_portrait,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-043,fr,5bc_world,pos::les_miserables::w16d_marius_reconnaissance,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-044,fr,5bc_world,pos::les_miserables::w16d_toussaint_passage,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-045,fr,5bc_world,pos::les_miserables::w17d_mariage_preparation,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-046,fr,6red_and_black,pos::red_and_black::w11b_maslon_promesse_maison,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-047,fr,6red_and_black,pos::red_and_black::w11c_confidences,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-048,fr,6red_and_black,pos::red_and_black::w11c_vieille_epee,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-049,fr,6red_and_black,pos::red_and_black::w11d_mme-de-renal-blessee,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-050,fr,6red_and_black,pos::red_and_black::w12b_pere_lachaise_ney,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-051,fr,6red_and_black,pos::red_and_black::w13b_chas_bernard_tresor,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-052,fr,6red_and_black,pos::red_and_black::w13b_marquis_temps_affaires,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-053,fr,6red_and_black,pos::red_and_black::w13d_dates_anciennes,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-054,fr,6red_and_black,pos::red_and_black::w13d_lettre_dix_huit_mois,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-055,fr,6red_and_black,pos::red_and_black::w14b_derniere_entrevue,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-056,fr,6red_and_black,pos::red_and_black::w14b_macons_consolation,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-057,fr,6red_and_black,pos::red_and_black::w14d_geolier_survie_repentir,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-058,fr,6red_and_black,pos::red_and_black::w15a_fin_journee_lettre,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-059,fr,6red_and_black,pos::red_and_black::w17a_diligence_durees,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-060,fr,6red_and_black,pos::red_and_black::w17b_semaines_entieres_crin,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-061,ru,7klmzf_brother,pos::karamazov::w11a_cell_guests,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-062,ru,7klmzf_brother,pos::karamazov::w11c_ilyusha_farewell,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-063,ru,7klmzf_brother,pos::karamazov::w12b_family_departure_plan,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-064,ru,7klmzf_brother,pos::karamazov::w12c_mokroye_dawn_window,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-065,ru,7klmzf_brother,pos::karamazov::w12c_square_tearing_purse,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-066,ru,7klmzf_brother,pos::karamazov::w13a_alyosha_money,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-067,ru,7klmzf_brother,pos::karamazov::w13a_monastery_refusal,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-068,ru,7klmzf_brother,pos::karamazov::w13a_six_weeks,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-069,ru,7klmzf_brother,pos::karamazov::w13b_mitya_provisions_hundred,PARTIAL,True,False,"The 100/120-ruble provision order is supported, but the extra ""about 300 rubles including champagne"" is absent from the supplied evidence."
+QEA-070,ru,7klmzf_brother,pos::karamazov::w13c_cards_twice_shifted,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-071,ru,7klmzf_brother,pos::karamazov::w13d_alyosha_testimony,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-072,ru,7klmzf_brother,pos::karamazov::w14b_rakitin_grushenka_double_goal,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-073,ru,7klmzf_brother,pos::karamazov::w16b_zosima_mother,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-074,ru,7klmzf_brother,pos::karamazov::w16c_kolya_rakitin,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-075,ru,7klmzf_brother,pos::karamazov::w17d_legend_years,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-076,ru,8war_and_peace,pos::war_and_peace::w11c_pierre_borodino_pole,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-077,ru,8war_and_peace,pos::war_and_peace::w12b_austerlitz_augest_dam,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-078,ru,8war_and_peace,pos::war_and_peace::w12b_bogucharovo_estate,PARTIAL,True,False,"Building at Bogucharovo is supported, but the claim that Andrei spent most of his time there is not stated in the supplied evidence."
+QEA-079,ru,8war_and_peace,pos::war_and_peace::w12c_napoleon_batteries,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-080,ru,8war_and_peace,pos::war_and_peace::w12c_petya_kremlin,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-081,ru,8war_and_peace,pos::war_and_peace::w13c_disposition_four_orders,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-082,ru,8war_and_peace,pos::war_and_peace::w13d_distance_200sazhen,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-083,ru,8war_and_peace,pos::war_and_peace::w14b_dolokhov_sonya_proposal_refusal,PARTIAL,True,False,"The proposal and refusal are supported, but ""he left immediately after dinner"" is absent from the supplied evidence."
+QEA-084,ru,8war_and_peace,pos::war_and_peace::w16a_kutuzov_timokhin_izmail,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-085,ru,8war_and_peace,pos::war_and_peace::w16b_ilagin_enmity_reconciliation,PARTIAL,True,False,"The quarrel and reconciliation are supported, but Ilagin's offer of hunting places is absent from the supplied evidence."
+QEA-086,ru,8war_and_peace,pos::war_and_peace::w17a_bezukhov_deathbed_minutes,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-087,ru,8war_and_peace,pos::war_and_peace::w17b_club_december_1805,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-088,ru,8war_and_peace,pos::war_and_peace::w17d_doprosy_pierra,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-089,ru,8war_and_peace,pos::war_and_peace::w17d_gody_istorii,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-090,ru,8war_and_peace,pos::war_and_peace::w17d_nikolenka_vozrast,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-091,zh,1hlm,pos::hlm::w10a_keqing_last_words,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-092,zh,1hlm,pos::hlm::w10c_huaqian_jiu,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-093,zh,1hlm,pos::hlm::w10c_miaoyu_zouhuo,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-094,zh,1hlm,pos::hlm::w4a_daiyu_fasting,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-095,zh,1hlm,pos::hlm::w4a_flower_lots,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-096,zh,1hlm,pos::hlm::w4a_jiamu_birthday,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-097,zh,1hlm,pos::hlm::w4b_jiayu_maochong,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-098,zh,1hlm,pos::hlm::w6c_zhuangtou_guozi_zhang,PARTIAL,True,False,"The fruit list and Zhou Rui's reply are supported, but Jia Zhen's instruction to check the account is absent from the supplied evidence."
+QEA-099,zh,1hlm,pos::hlm::w6d_siqi_guancai,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-100,zh,1hlm,pos::hlm::w6d_wangren_kaidiao,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-101,zh,1hlm,pos::hlm::w7c_fengjie_xunxinger,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-102,zh,1hlm,pos::hlm::w7c_xuepan_fanan,PARTIAL,True,False,"The bribery and witness changes are supported, but the coroner's finding of a bump injury is absent from the supplied evidence."
+QEA-103,zh,1hlm,pos::hlm::w8a_yuanfei_shengqin,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-104,zh,1hlm,pos::hlm::w8b_baoyu_yangshang_qixian,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-105,zh,1hlm,pos::hlm::w9b_aida_zhongren,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-106,zh,2xiyouji,pos::xiyouji::w10a_sangeng_chuandao,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-107,zh,2xiyouji,pos::xiyouji::w10b_wuji_guihun_qing,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-108,zh,2xiyouji,pos::xiyouji::w10c_guanyin_quanrao_suoling,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-109,zh,2xiyouji,pos::xiyouji::w5c_wudang_taihe,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-110,zh,2xiyouji,pos::xiyouji::w6a_dragon_palace_weapons,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-111,zh,2xiyouji,pos::xiyouji::w6a_embroidered_ball,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-112,zh,2xiyouji,pos::xiyouji::w6b_huanhundan_qianwan,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-113,zh,2xiyouji,pos::xiyouji::w6b_wuge_gu,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-114,zh,2xiyouji,pos::xiyouji::w7d_yinwu_meihua,PARTIAL,True,False,"The monster's fear and the plan to bind Tang in the rear garden are supported, but the named ""separated-plum-blossom stratagem"" and diversion of the three disciples are absent from the supplied evidence."
+QEA-115,zh,2xiyouji,pos::xiyouji::w8a_t_cloud_path_cave,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-116,zh,2xiyouji,pos::xiyouji::w8a_t_flowing_sands,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-117,zh,2xiyouji,pos::xiyouji::w8a_t_xuanzang_eighteen,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-118,zh,2xiyouji,pos::xiyouji::w8b_xunshan_banxue,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-119,zh,2xiyouji,pos::xiyouji::w8d_yutu_shenshi,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.
+QEA-120,zh,2xiyouji,pos::xiyouji::w9c_muxian_an_xingxian_mei,SUPPORTED,True,True,All answer clauses directly supported by the supplied evidence.

@@ -1,0 +1,10 @@
+audit_id,label,core_supported,all_claims_supported,note
+QEA-018,UNSUPPORTED,false,false,"Second pass agrees: the taunt is narrated by Nelly (""I observed aloud"") and directed to Isabella; the answer assigns it to Mrs. Heathcliff."
+QEA-030,PARTIAL,true,false,"The evidence supports Nelly's hint and Lockwood's answer, but Nelly's alleged question about his lively look is absent from the supplied evidence."
+QEA-069,PARTIAL,true,false,"Second pass agrees: 100/120 rubles is supported, but the extra 300-ruble champagne total is not in the supplied evidence."
+QEA-078,PARTIAL,true,false,"Building at Bogucharovo is supported, but the claim that Andrei spent most of his time there is not stated in the supplied evidence."
+QEA-083,PARTIAL,true,false,"Second pass agrees: the proposal/refusal is supported, but leaving immediately after dinner is not in the supplied evidence."
+QEA-085,PARTIAL,true,false,"Second pass agrees: the quarrel/reconciliation is supported, but Ilagin offering hunting places is not in the supplied evidence."
+QEA-098,PARTIAL,true,false,"Second pass agrees: the fruit list and Zhou Rui's reply are supported, but Jia Zhen's checking instruction is not in the supplied evidence."
+QEA-102,PARTIAL,true,false,"Second pass agrees: bribery and witness changes are supported, but the coroner finding a bump injury is not in the supplied evidence."
+QEA-114,PARTIAL,true,false,"Second pass agrees: the rear-garden binding is supported, but the named separated-plum-blossom stratagem and diversion are not in the supplied evidence."

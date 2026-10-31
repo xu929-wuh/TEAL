@@ -1,0 +1,32 @@
+{
+  "created_utc": "2026-10-25T08:19:26.738810+00:00",
+  "source": "paper/1english/revision_2026/method_v2/dataset_release_v14/clean/positives/test_frozen.jsonl",
+  "source_sha256": "f8dbc26e761e3c9b1a5891a7e9e1d7015832edd1d24f474c730721f8c094437c",
+  "seed": 20261025,
+  "population": 470,
+  "sample": 120,
+  "per_work": 15,
+  "batch_size": 20,
+  "population_by_language": {
+    "en": 123,
+    "fr": 113,
+    "ru": 104,
+    "zh": 130
+  },
+  "sample_by_language": {
+    "en": 30,
+    "fr": 30,
+    "ru": 30,
+    "zh": 30
+  },
+  "sample_by_work": {
+    "1hlm": 15,
+    "2xiyouji": 15,
+    "3pride_prejudice": 15,
+    "4Wuthering Heights": 15,
+    "5bc_world": 15,
+    "6red_and_black": 15,
+    "7klmzf_brother": 15,
+    "8war_and_peace": 15
+  }
+}
