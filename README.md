@@ -1,7 +1,8 @@
 # TEAL Evidence-Support Audit Subset
 
 Version: **1.0.0**  
-Release date: **2026-10-31**
+Release date: **2026-10-31**  
+Repository: **https://github.com/xu929-wuh/TEAL**
 
 This repository is a curated, upload-ready research subset accompanying the TEAL manuscript on trustworthy multilingual literary question answering. It contains **two 120-item human evidence-support audits**:
 
@@ -158,7 +159,7 @@ Expected checks include:
 
 ## Citation
 
-Please cite the associated TEAL paper when using this audit subset. Add the repository URL and archived DOI to `CITATION.cff` before public release.
+Please cite the associated TEAL paper when using this audit subset. The repository is available at https://github.com/xu929-wuh/TEAL. Add the archived DOI when it is assigned.
 
 ## Publication Note
 
@@ -167,4 +168,4 @@ After pushing the repository:
 1. confirm the citation title, version, and release date;
 2. create a tagged release such as `v1.0.0`;
 3. archive the release on Zenodo or an equivalent service and record the DOI;
-4. add the GitHub URL and archive DOI to the manuscript's Data and Code Availability statement and to the response to Reviewers A13 and Minor 6.
+4. add the archive DOI to `README.md`, `CITATION.cff`, the manuscript's Data and Code Availability statement, and the response to Reviewers A13 and Minor 6; the GitHub URL is already recorded here.

@@ -4,6 +4,7 @@ title: "TEAL Evidence-Support Audit Subset"
 version: 1.0.0
 date-released: 2026-10-31
 type: dataset
+repository-code: "https://github.com/xu929-wuh/TEAL"
 keywords:
   - trustworthy question answering
   - literary question answering
